@@ -15,7 +15,7 @@ WEBHOOK_TOKEN=<YOUR_RANDOM_SECRET_PHRASE_HERE>
 ```
 2. Set webhook for getting updates to your bot
 ```
-pnpm set-webhook <YOUR_DEPLOYMENT_URL_HERE>
+pnpm set-webhook <YOUR_DEPLOYMENT_URL_HERE>/api/webhook
 ```
 3. Set bot commands ( */start* command only by default)
 ```
